@@ -58,7 +58,7 @@
 <br><br>
 <div id="footer">
   <h2>📊 My Stats:</h2>
-  <div id="stats">
+  <div id="stats" style="display: flex" max-width="100%" >
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsspen&theme=default" height=150px>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsspen&hide_progress=true" height=150px>
   </div>
