@@ -58,9 +58,9 @@
 <br><br>
 <div id="footer">
   <h2>📊 My Stats:</h2>
-  <div id="stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsspen&theme=default" height=150px max-width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsspen&hide_progress=true" height=150px max-width="50%">
+  <div id="stats" max-width=100%>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsspen&theme=default" height=150px>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsspen&hide_progress=true" height=150px>
   </div>
     <div id="note"><i><sup>Please Note: Professional contributions from 2022-present are not included as they are tied to a private enterprise GitHub acccount!</sup></i></div>
 </div>
