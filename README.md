@@ -4,7 +4,7 @@
   <div id="links">
     <a href="https://linkedin.com/in/jordanspencercbus"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:Jordan.S.Spencer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://jsspen.github.io"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2?style=for-the-badge"/></a>
+    <a href="https://jordan-spencer.com"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2?style=for-the-badge"/></a>
     <a href="https://dev.to/jsspen"><img src="https://img.shields.io/badge/dev.to-29a329.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   </div>
 </div>
