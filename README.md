@@ -10,7 +10,7 @@
 </div>
 <br><br>
 
-## 💻 My Languages & Tools:
+## 💻 My Toybox:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -44,15 +44,20 @@
 ![Markdown](https://img.shields.io/badge/markdown-B26D6D.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-ffaa00?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 <br><br>
 ## 📖 Currently Learning & Exploring:
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Zola](https://img.shields.io/badge/zola-3670A0?style=for-the-badge&logo=zola&logoColor=white)
 ![GrapheneOS](https://img.shields.io/badge/GrapheneOS-0053A3?style=for-the-badge&logo=grapheneos&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 <br><br>
 ## 💽 My Platforms:
 ![Linux Mint Badge](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=for-the-badge)
 ![Windows 10 Badge](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff&style=for-the-badge)
 ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 <br><br>
@@ -62,5 +67,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsspen&theme=default" height=150px>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsspen&hide_progress=true" height=150px>
   </div>
-    <div id="note"><i><sup>Please Note: Professional contributions from 2022-present are not included as they are tied to a private enterprise GitHub acccount!</sup></i></div>
+    <div id="note"><i><sup>Please Note: Professional contributions from 2022-2024 are not included as they are tied to a private enterprise GitHub acccount!</sup></i></div>
 </div>
