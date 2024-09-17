@@ -49,16 +49,16 @@
 <br><br>
 ## 📖 Currently Learning & Exploring:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Zola](https://img.shields.io/badge/zola-3670A0?style=for-the-badge&logo=zola&logoColor=white)
+![Zola](https://img.shields.io/badge/zola-ffffff?style=for-the-badge&logo=data:image/webp;base64,UklGRo4BAABXRUJQVlA4TIIBAAAv/8A/EE+gqG0bOGYyJbDrOUVt28AxkymBXc8patsGjplMCex6jkwYMrZUFHALwBEMvTv/b2ZUlSQAt7ZttdETFGAqAAvAAgTPlA8pH8w559zYrmR/DR0zRPSfkdu2kejO4nZynUfIfDLlpmLSLFuSnpLCkksVKC7V9Iu96opM3qCo0Fgpe+StomJjw5+qBdMTfeyTuYmQrDXb4dVjc+am0cPK1pIMnFo1Otujc328gK4Q0lWVrrUAHFPNcPq7ifbQXV7/RsYGXWXGcH1Br3uDO6gRvk8M8D1a1n2BTG/m+nRx9GgHt5+s+9OvG77pE/70EZDe2cXp4+P8fbDs+yV/erenDwz6K3pf/tMG17+Vzr/rv5/ePzP8A128ztLXXvqU7gvvZem7w4uWvv7S19NjiQnpWktfNcDz6QoenVujszN0ltCJBPBJEQ/+pUiRfiISov/6IvDqJjL0jh4uSAz9sT1LAvAT/rDmSZ3JEVMC6B57VWQm3MO8pCfTIP3uK5bMEQ==)
 ![GrapheneOS](https://img.shields.io/badge/GrapheneOS-0053A3?style=for-the-badge&logo=grapheneos&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 <br><br>
 ## 💽 My Platforms:
 ![Linux Mint Badge](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=for-the-badge)
-![Windows 10 Badge](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff&style=for-the-badge)
-![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows 10 Badge](https://img.shields.io/badge/Windows-0078D6?logo=data:image/webp;base64,UklGRoAAAABXRUJQVlA4THQAAAAvAAKAEB8w//M//wKBZLTMVg90gME2sp04iB7c190ETbgVUlSf49uZBCEvov8CgiIrXChqWQq/spom52XZ/ndcpkX8h//wH/7Df/gP//W7rJtlw9+4mSaBS2rAkTXgyvEf/sN/+A//4T/81+9S1LL0l9U0AQ==&style=for-the-badge)
+![Mac](https://img.shields.io/badge/mac%20os-3D3D3D?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 <br><br>
 <div id="footer">
