@@ -2,10 +2,9 @@
   <img src="https://github.com/jsspen/jsspen/blob/main/banner-name.png">
     <p>a full stack software developer in Columbus, Ohio</p>
   <div id="links">
-    <a href="https://linkedin.com/in/jordanspencercbus"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/jordanspencercbus"><img src="https://custom-icon-badges.demolab.com/badge/linkedin-1E77B5?logoSource=feather&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:Jordan.S.Spencer@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white"></a>
     <a href="https://jordan-spencer.com"><img src="https://custom-icon-badges.demolab.com/badge/My%20Portfolio-8A2BE2?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
-    <a href="https://dev.to/jsspen"><img src="https://img.shields.io/badge/dev.to-29a329.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   </div>
 </div>
 <br><br>
